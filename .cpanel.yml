@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/engidyrv/public_html/
-    - /bin/cp -a /home/engidyrv/repositories/EO2* $DEPLOYPATH
+    - /bin/cp -a /home/engidyrv/repositories/EO2/* $DEPLOYPATH
